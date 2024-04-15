@@ -34,8 +34,8 @@ var obj =
 				"label": "WhatsApp"
 			},
 			{
-				"value": "Website",
-				"label": "www.hassan.com.bd"
+				"value": "www.hassan.com.bd",
+				"label": "Website"
 			},
 		],
 
@@ -48,32 +48,32 @@ var obj =
 		
 		"social": [
 			{
-				"value": "https://www.linkedin.com/company/hassanassociates/",
+				"value": "hassanassociates",
 				"label": "linkedin"
 			},
 			{
-				"value": "avibrazil",
+				"value": "hassan.com.bd",
 				"label": "facebook"
 			},
 			{
-				"value": "avibrazil",
-				"label": "github"
+				"value": "hasanassociates",
+				"label": "Twitter"
 			}
 		],
 		
 		"publications": [
 			{
-				"value": "Avi.Alkalay.net",
+				"value": "blog.hassan.com.bd",
 				"label": "blog",
 				"protocol": "https"
 			},
 			{
-				"value": "fb.com/AviOnInformationTechnology",
-				"label": "facebook",
+				"value": "maps.app.goo.gl/EQ4CqTnxZPX3pHPB8",
+				"label": "Google Map",
 				"protocol": "https"
 			},
 			{
-				"value": "Avi.Alkalay.net/bio",
+				"value": "taxadvisor.com.bd",
 				"label": "minibio",
 				"protocol": "https"
 			}
@@ -88,7 +88,7 @@ var obj =
 		
 		"qrcode": [
 			{
-				"label": "Scan with iPhone camera, Wallet or any QR reader"
+				"label": "Scan with QR reader"
 			}
 		]
 	}	
