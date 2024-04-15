@@ -6,15 +6,15 @@ var obj =
 	*/
 	"emailchar": "ⓐ",
 	
-	"ganalytics": "UA-629709-5",
+	"ganalytics": "",
 	
 	"name": {
-		"first": "Avi",
-		"last": "Alkalay",
+		"first": "Syed Hassan",
+		"last": "Ali",
 	},
-	"title": "Chieft Technology Officer",
-	"company": "CI&T and Digital House",
-	"department": "Business Innovation",
+	"title": "Income tax Lawyer",
+	"company": "Hassan & Associates",
+	"department": "CEO",
 
 	"columns": {
 		"1": ["phone", "publications", "other","mail"],
@@ -24,31 +24,31 @@ var obj =
 	"section": {
 		"phone": [
 			{
-				"value": "+55 (11) 99659-9059",
+				"value": "+880 1713-257629",
 				"label": "mobile",
 				"microformatTag": "mobile",
 				"vcfTag": "mobile" 
 			},
 			{
-				"value": "avi@unix.sh",
-				"label": "facetime"
+				"value": "+880 1713257629",
+				"label": "WhatsApp"
 			},
 			{
-				"value": "avibrazil",
-				"label": "skype"
+				"value": "Website",
+				"label": "www.hassan.com.bd"
 			},
 		],
 
 		"mail": [
 			{
-				"value": "aviⓐunix.sh",
+				"value": "me@hassan.com.bd",
 				"label": "personal"
 			},
 		],
 		
 		"social": [
 			{
-				"value": "avibrazil",
+				"value": "https://www.linkedin.com/company/hassanassociates/",
 				"label": "linkedin"
 			},
 			{
