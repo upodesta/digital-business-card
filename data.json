@@ -34,8 +34,8 @@ var obj =
 				"label": "WhatsApp"
 			},
 			{
-				"value": "Website",
-				"label": "www.hassan.com.bd"
+				"value": "hassan.com.bd",
+				"label": "website"
 			},
 		],
 
