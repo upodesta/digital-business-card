@@ -41,17 +41,14 @@ var obj =
 
 		"mail": [
 			{
-				"value": "me@hassan.com.bd",
+				"value": "me@taxadvisor.com.bd",
 				"label": "official"
 			},
 			{
 				"value": "upodesta@gmail.com",
 				"label": "personal"
 			},
-			{
-				"value": "me@taxadvisor.com.bd",
-				"label": "personal"
-			},
+			
 		],
 		
 		"social": [
