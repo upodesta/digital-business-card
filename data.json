@@ -42,6 +42,14 @@ var obj =
 		"mail": [
 			{
 				"value": "me@hassan.com.bd",
+				"label": "official"
+			},
+			{
+				"value": "upodesta@gmail.com",
+				"label": "personal"
+			},
+			{
+				"value": "me@taxadvisor.com.bd",
 				"label": "personal"
 			},
 		],
@@ -68,21 +76,37 @@ var obj =
 				"protocol": "https"
 			},
 			{
-				"value": "maps.app.goo.gl/EQ4CqTnxZPX3pHPB8",
-				"label": "Google Map",
+				"value": "diary.hassan.com.bd",
+				"label": "diary-blog",
 				"protocol": "https"
 			},
 			{
-				"value": "taxadvisor.com.bd",
-				"label": "minibio",
+				"value": "https://taxadvisor.com.bd",
+				"label": "mini-bio",
 				"protocol": "https"
 			}
 		],
-				
-		"other": [
+
+		"publications": [
 			{
-				"label": "Bitcoin",
-				"value": "12c8eL6HVeNgXPf8dyoymgVahJWqgnc4Gk"
+				"value": "google.com/maps/place/Hassan+and+Associates/@23.7646936,90.4157359,17z/data=!3m1!4b1!4m6!3m5!1s0x3755c780dd02daad:0x4f1a2e5a49189276!8m2!3d23.7646936!4d90.4157359!16s%2Fg%2F12hkdqf8n?entry=ttu",
+				"label": "google-map",
+				"protocol": "https"
+			},
+			{
+				"value": "youtube.com/channel/UCdKY7Ei8I9x5-UbYFehlGXw",
+				"label": "you-tube",
+				"protocol": "https"
+			},
+			{
+				"value": "instagram.com/hassanandassociates",
+				"label": "you-tube",
+				"protocol": "https"
+			},
+			{
+				"value": "twitter.com/hasanassociates",
+				"label": "twitter",
+				"protocol": "https"
 			}
 		],
 		
