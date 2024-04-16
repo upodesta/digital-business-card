@@ -89,11 +89,6 @@ var obj =
 
 		"publications": [
 			{
-				"value": "instagram.com/hassanandassociates",
-				"label": "instagram",
-				"protocol": "https"
-			},
-			{
 				"value": "twitter.com/hasanassociates",
 				"label": "twitter",
 				"protocol": "https"
@@ -101,6 +96,11 @@ var obj =
 			{
 				"value": "tumblr.com/hassanandassociates",
 				"label": "tumblr",
+				"protocol": "https"
+			},
+			{
+				"value": "instagram.com/hassanandassociates",
+				"label": "instagram",
 				"protocol": "https"
 			},
 			{
