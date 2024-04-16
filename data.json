@@ -12,8 +12,8 @@ var obj =
 		"first": "Syed Hassan",
 		"last": "Ali",
 	},
-	"title": "Income tax Lawyer",
-	         "Company Lawyer",
+	"title": "Income tax Lawyer"
+	         "Company Lawyer"
 	         "Business Consultant",
 	"company": "Hassan & Associates",
 	"department": "CEO",
