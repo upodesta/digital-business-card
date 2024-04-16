@@ -12,7 +12,7 @@ var obj =
 		"first": "Syed Hassan",
 		"last": "Ali",
 	},
-	"title": "Income tax Lawyer", "Company Lawyer", "Business Consultant",
+	"title": "Income tax Lawyer", 
 	"company": "Hassan & Associates",
 	"department": "CEO",
 
