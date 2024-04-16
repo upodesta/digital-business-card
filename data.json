@@ -13,6 +13,8 @@ var obj =
 		"last": "Ali",
 	},
 	"title": "Income tax Lawyer",
+	         "Company Lawyer",
+	         "Business Consultant",
 	"company": "Hassan & Associates",
 	"department": "CEO",
 
@@ -28,6 +30,10 @@ var obj =
 				"label": "mobile",
 				"microformatTag": "mobile",
 				"vcfTag": "mobile" 
+			},
+			{
+				"value": "+880 1713-257629",
+				"label": "whatsapp"
 			},
 			{
 				"value": "www.hassan.com.bd",
