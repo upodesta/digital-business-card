@@ -30,12 +30,8 @@ var obj =
 				"vcfTag": "mobile" 
 			},
 			{
-				"value": "+880 1713257629",
-				"label": "WhatsApp"
-			},
-			{
 				"value": "www.hassan.com.bd",
-				"label": "Website"
+				"label": "website"
 			},
 		],
 
