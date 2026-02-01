@@ -24,7 +24,7 @@ var obj =
 	"section": {
 		"phone": [
 			{
-				"value": "+880 1713-257629",
+				"value": "+880 9696357629",
 				"label": "mobile",
 				"microformatTag": "mobile",
 				"vcfTag": "mobile" 
@@ -34,34 +34,44 @@ var obj =
 				"label": "whatsapp"
 			},
 			{
-				"value": "hassan.com.bd",
+				"value": "upodesta.bd",
+				"label": "online id"
+			},
+			{
+				"value": "hassan.bd",
 				"label": "website"
 			},
+			{
+				"value": "taxadvisor.bd",
+				"label": "portfolio"
+			},
+			
 		],
 
 		"mail": [
 			{
-				"value": "me@hassan.com.bd",
+				"value": "upodesta@gmail.com",
+				"label": "private"
+			},			
+			{
+				"value": "me@hassan.bd",
 				"label": "official"
 			},
 			{
-				"value": "me@taxadvisor.com.bd",
+				"value": "me@taxadvisor.bd",
 				"label": "personal"
 			},
-			{
-				"value": "upodesta@gmail.com",
-				"label": "private"
-			},
+			
 			
 		],
 		
 		"social": [
 			{
-				"value": "hassanassociates",
+				"value": "upodesta",
 				"label": "linkedin"
 			},
 			{
-				"value": "hassan.com.bd",
+				"value": "upodesta",
 				"label": "facebook"
 			},
 			
@@ -69,17 +79,17 @@ var obj =
 		
 		"publications": [
 			{
-				"value": "blog.hassan.com.bd",
+				"value": "blog.hassan.bd",
 				"label": "blog",
 				"protocol": "https"
 			},
 			{
-				"value": "diary.hassan.com.bd",
+				"value": "diary.hassan.bd",
 				"label": "diary-blog",
 				"protocol": "https"
 			},
 			{
-				"value": "taxadvisor.com.bd",
+				"value": "taxadvisor.bd",
 				"label": "mini-bio",
 				"protocol": "https"
 			}
@@ -96,21 +106,7 @@ var obj =
 				"label": "tumblr",
 				"protocol": "https"
 			},
-			{
-				"value": "instagram.com/hassanandassociates",
-				"label": "instagram",
-				"protocol": "https"
-			},
-			{
-				"value": "github.com/upodesta",
-				"label": "github",
-				"protocol": "https"
-			},
-			{
-				"value": "google.com/maps/place/Hassan+and+Associates/@23.7646936,90.4157359,17z/data=!3m1!4b1!4m6!3m5!1s0x3755c780dd02daad:0x4f1a2e5a49189276!8m2!3d23.7646936!4d90.4157359!16s%2Fg%2F12hkdqf8n?entry=ttu",
-				"label": "google-map",
-				"protocol": "https"
-			},
+														
 		],
 		
 		"qrcode": [
@@ -119,4 +115,4 @@ var obj =
 			}
 		]
 	}	
-};
+}
