@@ -13,8 +13,8 @@ var obj =
 		"last": "Ali",
 	},
 	"title": "Income tax Lawyer", 
-	"company": "Hassan & Associates",
-	"department": "CEO",
+	"title": "Hassan & Associates",
+	"titile": "Dhaka, Bangladesh",
 
 	"columns": {
 		"1": ["phone", "publications", "other","mail"],
