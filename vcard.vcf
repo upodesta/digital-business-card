@@ -2,14 +2,14 @@ BEGIN:VCARD
 VERSION:2.1
 N:Ali;Syed;Hassan;;
 FN:Syed Hassan Ali
+TEL;CELL:+8809696357629
 TEL;CELL:+8801713257629
-TEL;CELL:+8801713257629
-EMAIL;WORK:me@hassan.com.bd
-EMAIL;HOME:me@taxadvisor.com.bd
+EMAIL;WORK:upodesta@gmail.com
+EMAIL;HOME:upodestabd@gmail.com
 ORG:Hassan & Associates
 TITLE:Income tax Lawyer
-URL:https://hassan.com.bd
-URL:https://taxadvisor.com.bd
+URL:https://hassan.bd
+URL:https://taxadvisor.bd
 PHOTO;ENCODING=BASE64;PNG:iVBORw0KGgoAAAANSUhEUgAAAGAAAABgCAIAAABt+uBvAAAA
  AXNSR0IArs4c6QAAAANzQklUCAgI2+FP4AAAIABJREFUeJyUvOmvZNlxJxbLOefemzcz3/6qu
  pZu9sIWW6QokpKooRZIssYazGJYnhlYNgwPbBhjwDDgD4Y/GPaf4AUGjPliDWBoTMuzaEaasQ
@@ -304,3 +304,4 @@ PHOTO;ENCODING=BASE64;PNG:iVBORw0KGgoAAAANSUhEUgAAAGAAAABgCAIAAABt+uBvAAAA
 
 BDAY:--09-13
 END:VCARD
+
