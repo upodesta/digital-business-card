@@ -12,9 +12,9 @@ var obj =
 		"first": "Syed Hassan",
 		"last": "Ali",
 	},
-	"title": "Income tax Lawyer", 
-	"title": "Hassan & Associates",
-	"titile": "Dhaka, Bangladesh",
+	"title": "Income tax Lawyer, </b> Dhaka, Bangladesh", 
+	"company": "Hassan & Associates",
+	"Designation": "CEO",
 
 	"columns": {
 		"1": ["phone", "publications", "other","mail"],
