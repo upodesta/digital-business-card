@@ -35,7 +35,7 @@ var obj =
 			},
 			{
 				"value": "upodesta.bd",
-				"label": "online id"
+				"label": "online_id"
 			},
 			{
 				"value": "hassan.bd",
@@ -54,12 +54,12 @@ var obj =
 				"label": "private"
 			},			
 			{
-				"value": "me@hassan.bd",
-				"label": "official"
+				"value": "upodesta@yahoo.com",
+				"label": "yahoo_mail"
 			},
 			{
-				"value": "me@taxadvisor.bd",
-				"label": "personal"
+				"value": "upodesta@live.com",
+				"label": "microsoft"
 			},
 			
 			
