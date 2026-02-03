@@ -12,7 +12,7 @@ var obj =
 		"first": "Syed Hassan",
 		"last": "Ali",
 	},
-	"title": "Income tax Lawyer", 
+	"title": "Income tax Lawyer (কর উপদেষ্টা)", 
 	"company": "Hassan & Associates",
 	"Designation": "CEO",
 
@@ -25,13 +25,13 @@ var obj =
 		"phone": [
 			{
 				"value": "+880 9696357629",
-				"label": "mobile",
+				"label": "Mobile",
 				"microformatTag": "mobile",
 				"vcfTag": "mobile" 
 			},
 			{
 				"value": "+880 1713-257629",
-				"label": "whatsapp"
+				"label": "Whatsapp"
 			},
 			{
 				"value": "upodesta.bd",
@@ -61,7 +61,6 @@ var obj =
 				"value": "upodesta@live.com",
 				"label": "microsoft"
 			},
-			
 			
 		],
 		
@@ -94,7 +93,15 @@ var obj =
 				"protocol": "https"
 			}
 		],
-
+        
+		"Section": [
+			{
+				"value": "MYTV Bhaban, 150 Hatirjheel",
+				         "Dhaka-1219, Bangladesh",
+				"label": "Location"
+			},
+					
+		],
 		"publications": [
 			{
 				"value": "twitter.com/hasanassociates",
