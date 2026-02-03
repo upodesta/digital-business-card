@@ -12,7 +12,7 @@ var obj =
 		"first": "Syed Hassan",
 		"last": "Ali",
 	},
-	"title": "Income tax Lawyer (কর উপদেষ্টা)", 
+	"title": "Income tax Lawyer", 
 	"company": "Hassan & Associates",
 	"Designation": "CEO",
 
@@ -94,14 +94,7 @@ var obj =
 			}
 		],
         
-		"Section": [
-			{
-				"value": "MYTV Bhaban, 150 Hatirjheel",
-				         "Dhaka-1219, Bangladesh",
-				"label": "Location"
-			},
-					
-		],
+	
 		"publications": [
 			{
 				"value": "twitter.com/hasanassociates",
