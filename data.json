@@ -97,16 +97,20 @@ var obj =
 	
 		"publications": [
 			{
-				"value": "twitter.com/hasanassociates",
-				"label": "twitter",
+				"value": "instagram.com/upodestabd",
+				"label": "Instagram",
 				"protocol": "https"
-			},
+			},									
 			{
-				"value": "tumblr.com/hassanandassociates",
+				"value": "threads.com/upodestabd",
 				"label": "tumblr",
 				"protocol": "https"
 			},
-														
+			{
+				"value": "twitter.com/hasanassociates",
+				"label": "twitter",
+				"protocol": "https"
+			},						
 		],
 		
 		"qrcode": [
