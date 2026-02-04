@@ -93,6 +93,11 @@ var obj =
 	
 		"publications": [
 			{
+				"value": "twitter.com/upodestabd",
+				"label": "twitter",
+				"protocol": "https"
+			},		
+			{
 				"value": "instagram.com/upodestabd",
 				"label": "Instagram",
 				"protocol": "https"
@@ -102,11 +107,7 @@ var obj =
 				"label": "tumblr",
 				"protocol": "https"
 			},
-			{
-				"value": "twitter.com/hasanassociates",
-				"label": "twitter",
-				"protocol": "https"
-			},						
+							
 		],
 		
 		"qrcode": [
