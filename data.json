@@ -51,17 +51,13 @@ var obj =
 		"mail": [
 			{
 				"value": "upodesta@gmail.com",
-				"label": "private"
+				"label": "work"
 			},			
 			{
-				"value": "upodesta@yahoo.com",
-				"label": "yahoo_mail"
+				"value": "upodestabd@gmail.com",
+				"label": "personal"
 			},
-			{
-				"value": "upodesta@live.com",
-				"label": "microsoft"
-			},
-			
+						
 		],
 		
 		"social": [
